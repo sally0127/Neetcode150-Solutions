@@ -1,8 +1,9 @@
 **7.Products of Array Discluding Self**
 -----------------------------------------------
-#
 🔗 [Link: Products of Array Discluding Self ](https://neetcode.io/problems/products-of-array-discluding-self)
+
 💡 Difficulty: Medium
+
 🛠️ Topics: Array, Hashing
 
 ============================================================================
