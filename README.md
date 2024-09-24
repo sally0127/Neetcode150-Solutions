@@ -30,30 +30,50 @@ Constraints:
 **UMPIRE Method:**
 
 **Uderstand**
+
 ．Ask clarifying questions and use examples to understand what the interviewer wants out of this problem.
+
 ．Choose a “happy path” test input, different than the one provided, and a few edge case inputs.
+
 ．Verify that you and the interviewer are aligned on the expected inputs and outputs.
+
 1.Can the nums array be empty?
+
 2.Are there any negative numbers or 0 in the array?
+
 3.Can there be duplicate elements?
+
 4.Should we consider the case where the array length is 1?
 
+
 **Match**
+
 ．See if this problem matches a problem category (e.g. Strings/Arrays) and strategies or patterns within the category
+
 1.Category: Array Problem
+
 2.Related Patterns: Product, Prefix and Suffix Operations
-3.Cannot use division, so the method of directly calculating the total product and then dividing by nums[i] cannot be used to solve the problem.We can use the left and right product approach, breaking the problem down into multiple traversals.
+
+3.Cannot use division, so the method of directly calculating the total product and then dividing by nums[i] cannot be used 
+to solve the problem.We can use the left and right product approach, breaking the problem down into multiple traversals.
 
 **Plan**
+
 ．Sketch visualizations and write pseudocode
+
 ．Walk through a high level implementation with an existing diagram
+
 We can calculate it in two steps:
     1.Left Product: For each position i, calculate the product of all elements to the left of nums[i].
+    
     2.Right Product: For each position i, calculate the product of all elements to the right of nums[i].
+    
 The final result is obtained by multiplying the left product and right product to get the result for each position.
 
 **Implement**
+
 ．Implement the solution (make sure to know what level of detail the interviewer wants)
+
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
@@ -73,11 +93,15 @@ class Solution:
     return output
 
 **Review**
+
 ．Re-check that your algorithm solves the problem by running through important examples
+
 ．Go through it as if you are debugging it, assuming there is a bug
 
 **Evaluate**
+
 ．Time Complexity: O(n), because we only traverse the array twice.
+
 ．Space Complexity: O(1), although we use the output array, the additional space excluding the output part is O(1).
 
 
