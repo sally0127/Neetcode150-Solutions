@@ -1,9 +1,9 @@
 **7.Products of Array Discluding Self**
 -----------------------------------------------
-#
-🔗 [Link: Products of Array Discluding Self ](https://neetcode.io/problems/products-of-array-discluding-self)
-💡 Difficulty: Medium
-🛠️ Topics: Array, Hashing
+
+#🔗 [Link: Products of Array Discluding Self ](https://neetcode.io/problems/products-of-array-discluding-self)
+#💡 Difficulty: Medium
+#🛠️ Topics: Array, Hashing
 
 ============================================================================
 Given an integer array nums, return an array output where output[i] is the product of all the elements of nums except nums[i].
