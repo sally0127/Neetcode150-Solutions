@@ -1,9 +1,10 @@
 **7.Products of Array Discluding Self**
+-----------------------------------------------
 🔗 [Link: Products of Array Discluding Self ](https://neetcode.io/problems/products-of-array-discluding-self)
 💡 Difficulty: Medium
 🛠️ Topics: Array, Hashing
 
-=======================================================================================
+============================================================================
 Given an integer array nums, return an array output where output[i] is the product of all the elements of nums except nums[i].
 
 Each product is guaranteed to fit in a 32-bit integer.
@@ -22,7 +23,7 @@ Constraints:
 ． 2 <= nums.length <= 1000
 ． -20 <= nums[i] <= 20
 
-=======================================================================================
+=====================================================================
 
 **UMPIRE Method:**
 
