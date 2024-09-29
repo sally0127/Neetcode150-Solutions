@@ -1,8 +1,11 @@
 **Is Palindrome**
 -
 🔗 Link: Is Palindrome(https://neetcode.io/problems/is-palindrome)
+
 💡 Difficulty: Easy
+
 🛠️ Topics:  string ,character traversal,two-pointer strategy
+
 ===========================================================================
 
 Given a string s, return true if it is a palindrome, otherwise return false.
