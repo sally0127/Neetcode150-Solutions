@@ -4,7 +4,7 @@
 
 💡 Difficulty: Medium
 
-🛠️ Topics: 
+🛠️ Topics: Push,Pop,Top,Get Minimum
 
 ===================================================================
 
