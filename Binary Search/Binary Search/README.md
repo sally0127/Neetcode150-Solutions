@@ -1,14 +1,14 @@
 **Binary Search**
 -
-🔗 Link:Binary Searc
+🔗 Link:Binary Search
 
 💡 Difficulty: Easy
 
-🛠️ Topics: 
+🛠️ Topics: Binary Search (二分搜尋法) ,Array (數組),Divide and Conquer (分治法)
 
 ============================================================================
 
-You are given an array of distinct integers nums, sorted in ascending order, and an integer target.
+You are given an array of distinct integers nums, sorted in ascending order(升序), and an integer target.
 
 Implement a function to search for target within nums. If it exists, then return its index, otherwise, return -1.
 
