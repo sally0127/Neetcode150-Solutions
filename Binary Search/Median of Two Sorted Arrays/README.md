@@ -6,6 +6,8 @@
 
 🛠️ Topics: Binary Search（二分搜尋）,Divide and Conquer（分治法）,Median（中位數）,Edge Case Handling（邊界情況處理）
 
+這題的綜合性非常高，通常會出現在進階算法題中，是學習二分搜尋和處理複雜數組操作的經典題型。
+
 ================================================================
 
 You are given two integer arrays nums1 and nums2 of size m and n respectively, where each is sorted in ascending order. Return the median value among all elements of the two arrays.
