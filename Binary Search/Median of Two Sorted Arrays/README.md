@@ -4,7 +4,7 @@
 
 💡 Difficulty: Hard
 
-🛠️ Topics: 
+🛠️ Topics: Binary Search（二分搜尋）,Divide and Conquer（分治法）,Median（中位數）,Edge Case Handling（邊界情況處理）
 
 ================================================================
 
