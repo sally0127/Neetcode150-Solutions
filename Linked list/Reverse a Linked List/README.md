@@ -4,7 +4,7 @@
 
 💡 Difficulty: Easy
 
-🛠️ Topics:
+🛠️ Topics:Linked List Operations(鏈結串列操作),Iterative and Recursive Approaches(迭代與遞迴方法), Pointer Manipulation(指標操作),Time and Space Complexity(時間和空間複雜度),Common Interview Questions(常見面試問題)
 
 ======================================================
 
