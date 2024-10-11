@@ -4,7 +4,7 @@
 
 💡 Difficulty:Medium
 
-🛠️ Topics: 
+🛠️ Topics: 快慢指針（Two-pointer Technique）,鏈結串列的反轉（Reversing a Linked List）,鏈結串列的合併與重排序（Merging and Reordering Linked Lists）,鏈結串列中的迴圈和條件判斷（Loops and Conditional Checks in Linked Lists）
 
 ====================================================
 
