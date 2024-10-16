@@ -4,7 +4,7 @@
 
 💡 Difficulty: Medium
 
-🛠️ Topics: 
+🛠️ Topics: 鏈結串列遍歷(Linked List Traversal),進位處理(Carry Handling),建構新鏈結串列(Constructing a New Linked List)
 
 ====================================================
 
