@@ -1,7 +1,10 @@
 **LRU Cache8**
 -
+
 🔗 Link: LRU Cache8
+
 💡 Difficulty: Medium
+
 🛠️ Topics: 缓存淘汰策略(Cache Eviction Policy),数据结构设计 (Data Structure Design),算法优化(Algorithm Optimization),缓存管理(Cache Management)
 
 =============================================
